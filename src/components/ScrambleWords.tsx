@@ -92,11 +92,10 @@ export const ScrambleWords = () => {
 				{/* Header */}
 				<div className="text-center mb-8">
 					<h1 className="text-4xl font-bold bg-linear-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-2">
-						Palabras desordenadas
+						Palabras Desordenadas
 					</h1>
-					<h2 className="text-3xl">DALE MAMER, JUGÁ </h2>
 					<p className="text-gray-600">
-						Desordena las letras para encontrar la palabra!
+						¡Desordená las letras para encontrar la palabra!
 					</p>
 				</div>
 
